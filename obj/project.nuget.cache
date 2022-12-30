@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfojb/1aR3Ox7+m9dIjnfFJ9y/02EABqqVOhyp87u6C1w+2SW+NGwXM0MnIc/3UM4e+8j5cIQ6O8MLFJr3RBUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Beau\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Beau\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.11\\microsoft.netcore.app.host.win-x86.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
